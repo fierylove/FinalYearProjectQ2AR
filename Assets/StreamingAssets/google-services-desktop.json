@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "802517565532",
+    "firebase_url": "https://fypj-12557.firebaseio.com",
+    "project_id": "fypj-12557",
+    "storage_bucket": "fypj-12557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802517565532:android:3699897ed2016134",
+        "android_client_info": {
+          "package_name": "com.OneKM.the_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802517565532-24b1e4deirumiueslo2mpofh9sbu21l5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "802517565532-24b1e4deirumiueslo2mpofh9sbu21l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1Nq7VOc0EQYUatzjbF0j_FWKPwik7y0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
